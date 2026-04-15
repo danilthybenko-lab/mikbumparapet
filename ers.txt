@@ -1,0 +1,1 @@
+hysteria2://iqoo%3Aoeb65XerpMuQs24x5EPqlyYNcfHC33JT@94.242.58.155:1935?sni=github.com&obfs=salamander&obfs-password=2QwxHYXBTgyU8RIb7qR1Q43ScKLfQMlV&insecure=1#IPv4
